@@ -1,0 +1,82 @@
+header {
+    color: White;
+
+
+}
+
+
+
+.titulo_introducao {
+    display: flex;
+    justify-content: inline-block;
+    padding: 3em;
+    margin: 10px;
+    font-size: 40px;
+    
+
+}
+
+
+.primeiro_conteiner {
+    text-align: center;
+    justify-content: center;
+    padding: 15px;
+    margin: 10px;
+
+    
+
+
+}
+
+.logo_header {
+    height: 45%;
+    width: 45%;
+  
+    border: 5px;
+    border-radius: 50px; 
+    
+}
+
+.primeiro__conteiner {
+    padding: 20px;
+    margin: 15px;
+
+    
+}
+
+ 
+/* inicio do texto da primeira foto*/ 
+/**/
+
+.primeiro_texto {
+    padding: auto;
+    margin: auto;
+
+
+}
+
+/* textos */
+
+.primeiro__titulo {
+    padding: 5px;
+    margin: 10px; 
+    font-size: 40px;    
+    font-family: var(--font-title);
+    color: var( --cor-vemelho-DarkRed);
+
+    background: black;
+    border-radius: 20px;
+
+}
+
+.primeiro__texto {
+    background: black;
+    padding: 10px;
+    margin: 5px;
+    font-size: 30px;
+    font-family: var(--font-text);
+
+    border-radius: 20px; 
+    color: var(--cor-vemelho-PeachPuff); 
+
+}
