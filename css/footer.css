@@ -1,0 +1,49 @@
+footer {
+    background: black;
+    color: var(--cor-vemelho-PeachPuff);
+    
+    display: flex;
+    gap: 1px;
+    flex-wrap: wrap;
+
+    text-align: center;
+    justify-content: space-around;
+
+    margin: auto;
+    padding: 20px;
+
+
+}
+
+.footer_titulo {
+    text-align: center;
+
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.grupo1_footer {
+    text-align: center;
+    
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.grupo_nome {
+
+    margin: 10px;
+    padding: 10px;
+
+
+}
+
+
+.grupo2_footer {
+    text-align: center;
+    
+    margin: 20px;
+    padding: 20px;
+
+}

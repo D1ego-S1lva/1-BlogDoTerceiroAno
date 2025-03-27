@@ -1,0 +1,147 @@
+/* main {
+  
+
+} */
+
+.principal_titulo { 
+    display: flex;
+    justify-content: inline-block;
+    padding: 40px;
+    margin: 5px;
+    font-size: 40px;
+    margin-top: 70px;
+    color: white;
+
+}
+
+.conteiner_princinpa {
+    display: flex;
+    
+
+}
+
+/*trote*/
+
+
+
+.principal1 {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+    
+ 
+    margin: 40px;
+    padding: 70px; 
+
+   
+
+}
+
+.texto_principal {
+
+    margin: 20px;
+    padding: 20px;
+
+    background: black;
+    border-radius: 30px;
+    
+
+
+}
+
+.titulo_principal {
+    font-family: var(--font-title);
+    color: var( --cor-vemelho-DarkRed);
+
+}
+
+.texto__principal {
+    font-family: var(--font-text);
+    font-size: medium;
+    color: var(--cor-vemelho-PeachPuff);
+
+    margin: 10px;
+    padding: 10px; 
+
+}
+
+
+/*
+    .imagem_principal {
+    
+    }
+*/
+
+/*teatro*/
+
+
+hr {
+    margin-top: 50px;
+    
+}
+
+
+
+/*nao consegui colocar as imagens*/
+
+/*  
+.imagem_principal2{
+    
+    max-height: 20%;
+    max-width: auto;
+
+    margin: auto, 20px, auto, 20px;
+    padding: auto;
+    
+   
+
+}  */
+
+
+.principal2 {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+    margin-top: 50px;
+    margin: 60px, 35px, 40px, 35px;
+    padding: 60px;
+
+}
+
+.texto_principal2 {
+    text-align: center;
+    font-size: medium;
+    margin: 20px;
+    padding: 20px;
+
+    background: black;
+    border-radius: 30px;
+    border: 5px;
+    
+    
+    
+
+}
+
+/*nao sei o pq da cor da fonte nao esta carregando*/
+
+.titulo_principal2 {
+    font-family: var(--font-title);
+    color: var(--cor-vemelho-DarkRed);
+
+    
+}
+
+.texto__principal2 {
+    font-family: var(--font-text);
+    font-size: medium;
+    color: var(--cor-vemelho-PeachPuff);
+    
+
+    margin: 10px;
+    padding: 10px;
+
+}
+
